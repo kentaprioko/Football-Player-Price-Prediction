@@ -1,2 +1,1 @@
-# Football-Player-Price-Prediction
-A machine learning model to predict football player price
+This repository contains jupyter notebook file about football player price prediction using machine learning. I created this machine learning model based on [2021-2022 Football Player Stats](https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats) and [2022-23 football summer transfer window](https://www.kaggle.com/datasets/ruslanhuretski/202223-football-summer-transfer-window) datasets.
